@@ -1,0 +1,4 @@
+ReWriteEngine on
+ReWriteBase /mvc/7/controllers
+ReWriteRule ^lectures$ index.php?page=lectures [L]
+ReWriteRule ^lecture/(.*)$ index.php?page=lecture&n=$1 [L]
