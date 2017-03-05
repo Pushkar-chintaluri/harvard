@@ -2,48 +2,48 @@
 
 <menu>
 	<category name="Pizzas" hasSizes="Yes" hasOptions="Yes">
-		<desc>  </desc>
+		<desc></desc>
 		<opt name="Extra Cheese">
 			<small> 1.25 </small>
 			<large> 1.85 </large>		
 		</opt>
-		<item name="Tomato & Cheese">
-			<desc>  </desc>
+		<item name="Tomato &amp; Cheese">
+			<desc></desc>
 			<small> 5.50 </small>
 			<large> 9.75 </large>
 		</item>
 		<item name="Onions">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 6.85 </small>
 			<large> 10.85 </large>
 		</item>
 		<item name="Peppers">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 6.85 </small>
 			<large> 10.85 </large>
 		</item>
 		<item name="Hawaiian">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 7.95 </small>
 			<large> 11.80 </large>
 		</item>
 		<item name="Anchovies">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 6.85 </small>
 			<large> 10.85 </large>
 		</item>
 		<item name="Grilled Chicken">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 7.95 </small>
 			<large> 11.80 </large>
 		</item>
 		<item name="2-way Combo">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 7.95 </small>
 			<large> 11.80 </large>
 		</item>
 		<item name="3-way Combo">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 8.90 </small>
 			<large> 12.80 </large>
 		</item>
@@ -51,55 +51,49 @@
 
 	<category name="Special Dinners" hasSizes="No" hasOptions="No">
 		<desc> All Dinners served with French Fries and Salad </desc>
-		<opt name="">
-			<small>  </small>
-			<large>  </large>		
-		</opt>
+		<opt name=""></opt>
 		<item name="Chicken Wing Dinner">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 7.25 </small>
 			<large></large>
 		</item>
 		<item name="Gyro Plate">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 7.25 </small>
-			<large>  </large>
+			<large></large>
 		</item>
 		<item name="Cheeseburger Plate">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.25 </small>
-			<large>  </large>
+			<large></large>
 		</item>
 		<item name="Chicken Burger Plate">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.25 </small>
-			<large>  </large>
+			<large></large>
 		</item>
 		<item name="Chicken Kabob Plate">
 			<desc> With rice, salad &amp; pita bread </desc>
 			<small> 7.85 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Steak Tips Dinner">
 			<desc> Served with Side Salad &amp; French Fries </desc>
 			<small> 8.25 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Fish &amp; Chips Dinner">
 			<desc> Served with Side Salad, French Fries &amp; Tartar Sauce  </desc>
 			<small> 7.35 </small>
-			<large>  </large>
+			<large></large>
 		</item>		
 	</category>
 
 	<category name="Speciality Pizzas" hasSizes="Yes" hasOptions="No">
-		<desc>  </desc>
-		<opt name="">
-			<small>  </small>
-			<large>  </large>		
-		</opt>
+		<desc></desc>
+		<opt name=""></opt>
 		<item name="Three Aces Special">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 9.80 </small>
 			<large> 15.80 </large>
 		</item>	
@@ -126,82 +120,76 @@
 	</category>		
 
 	<category name="Side Orders" hasSizes="Yes" hasOptions="No">
-		<desc>  </desc>
-		<opt name="">
-			<small>  </small>
-			<large>  </large>		
-		</opt>
+		<desc></desc>
+		<opt name=""></opt>
 		<item name="Onion Rings">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 2.60 </small>
 			<large> 2.95 </large>
 		</item>	
 		<item name="French Fries">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 2.25 </small>
 			<large> 2.65 </large>
 		</item>	
 		<item name="Spicy Fries">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 2.60 </small>
 			<large> 2.95 </large>
 		</item>	
 		<item name="Mozzarella Sticks (7 pieces)">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.50 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Slice Cheese Pizza">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 1.65 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Slice Pepperoni Pizza">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 1.85 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Homemade Spinach Pie">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 3.10 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Spanakopita">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 3.25 </small>
-			<large>  </large>
+			<large></large>
 		</item>
 	</category>	
 
 
 	<category name="Salads" hasSizes="Yes" hasOptions="No">
-		<desc>  </desc>
-		<opt name="">
-			<small>  </small>
-			<large>  </large>		
-		</opt>
+		<desc></desc>
+		<opt name=""></opt>
 		<item name="Garden Salad">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 3.50 </small>
 			<large> 4.50 </large>
 		</item>	
 		<item name="Greek Salad">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.50 </small>
 			<large> 5.50 </large>
 		</item>	
 		<item name="Antipasto">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.50 </small>
 			<large> 5.50 </large>
 		</item>	
 		<item name="Tuna Salad">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.50 </small>
 			<large> 5.50 </large>
 		</item>	
 		<item name="Grilled Chicken Salad">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.95 </small>
 			<large> 5.95 </large>
 		</item>	
@@ -214,81 +202,78 @@
 
 
 	<category name="Wraps" hasSizes="No" hasOptions="No">
-		<desc>  </desc>
-		<opt name="">
-			<small>  </small>
-			<large>  </large>		
-		</opt>
+		<desc></desc>
+		<opt name=""></opt>
 		<item name="Turkey Club Wrap">
 			<desc> Turkey, Cheese, Lettuce, Tomato, Onion &amp; Mayo </desc>
 			<small> 4.95 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Chicken Cobb">
 			<desc> Grilled Chicken, Bacon, Cheese, Lettuce, Tomato, Onion &amp; Honey Mustard </desc>
 			<small> 4.95 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Greek Supreme">
 			<desc> Feta Cheese, Black Olives, Lettuce, Tomato, Onion &amp; Greek Dressing </desc>
 			<small> 4.95 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Crispy Chicken Wrap">
 			<desc> Chicken Finders, Lettuce, Tomato, Onion &amp; Honey Mustard </desc>
 			<small> 4.95 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Steak Wrap">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.95 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 	</category>
 
 	<category name="Grinders" hasSizes="Yes" hasOptions="Yes">
-		<desc>  </desc>
+		<desc></desc>
 		<opt name="Additional Item on Steak Sub">
 			<small> 0.25 </small>
 			<large> 0.40 </large>		
 		</opt>
 		<item name="Meatless">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.50 </small>
 			<large> 4.95 </large>
 		</item>	
 		<item name="Hamburger">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.50 </small>
 			<large> 4.95 </large>
 		</item>	
 		<item name="Cheeseburger">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.75 </small>
 			<large> 5.75 </large>
 		</item>	
 		<item name="Sausage">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.75 </small>
 			<large> 5.75 </large>
 		</item>	
 		<item name="Veal Cutlet">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.75 </small>
 			<large> 5.75 </large>
 		</item>	
 		<item name="Hot Pastrami">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.95 </small>
 			<large> 5.95 </large>
 		</item>	
 		<item name="Genoa Salami">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.75 </small>
 			<large> 5.75 </large>
 		</item>	
 		<item name="Roast Beef">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.95 </small>
 			<large> 5.95 </large>
 		</item>	
@@ -298,35 +283,113 @@
 			<large> 6.40 </large>
 		</item>	
 		<item name="Pepper Steak">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.20 </small>
 			<large> 6.20 </large>
 		</item>	
 		<item name="Steak Bomb">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.50 </small>
 			<large> 6.50 </large>
 		</item>	
 		<item name="Bacon & Egg">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.30 </small>
 			<large> 6.40 </large>
 		</item>	
 		<item name="Gyro on Pita">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.50 </small>
-			<large>  </large>
+			<large></large>
 		</item>	
 		<item name="Grilled Chicken Delight">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 5.50 </small>
 			<large> 6.50 </large>
 		</item>	
 		<item name="Chicken Finger Sub">
-			<desc>  </desc>
+			<desc></desc>
 			<small> 4.60 </small>
 			<large> 5.60 </large>
 		</item>
+	</category>
 
+	<category name="Homemade Calzone" hasSizes="No" hasOptions="No">
+		<desc></desc>
+		<opt name=""></opt>
+		<item name="Vegetarian">
+			<desc> With Mushrooms, Peppers &amp; Onions </desc>
+			<small></small>
+			<large> 7.35 </large>
+		</item>	
+		<item name="Sausage">
+			<desc> With Mushrooms, Peppers &amp; Onions </desc>
+			<small></small>
+			<large> 7.35 </large>
+		</item>	
+		<item name="Grecian">
+			<desc> With Mushrooms, Peppers, Onions, Fresh Tomatoes, Spinach &amp; Feta Cheese </desc>
+			<small></small>
+			<large> 7.35 </large>
+		</item>	
+		<item name="Italian">
+			<desc> With Mushrooms, Peppers &amp; Onions </desc>
+			<small></small>
+			<large> 7.35 </large>
+		</item>	
+		<item name="Steak">
+			<desc></desc>
+			<small></small>
+			<large> 7.35 </large>
+		</item>
+	</category>
+
+	<category name="Pasta Dinners" hasSizes="No" hasOptions="Yes">
+		<desc> All Pasta Dinners served with Garlic Bread &amp; Salad </desc>
+		<opt name="Spaghetti"></opt>
+		<opt name="Ziti"></opt>
+		<opt name="Lasagna"></opt>
+		<opt name="Ravioli"></opt>
+		<opt name="Manicotti"></opt>
+		<item name="Sauce">
+			<desc></desc>
+			<small> 5.40 </small>
+			<large></large>
+		</item>
+		<item name="Sausage">
+			<desc></desc>
+			<small> 6.45 </small>
+			<large></large>
+		</item>
+		<item name="Meatball">
+			<desc></desc>
+			<small> 6.45 </small>
+			<large></large>
+		</item>
+		<item name="Veal">
+			<desc></desc>
+			<small> 6.45 </small>
+			<large></large>
+		</item>	
+		<item name="Chicken Cutlet">
+			<desc></desc>
+			<small> 6.45 </small>
+			<large></large>
+		</item>	
+		<item name="A La Three Aces">
+			<desc> Sausage, Mushrooms, Bacon &amp; Ham Topped with Sauce &amp; Mozzarella Cheese </desc>
+			<small> 7.25 </small>
+			<large></large>
+		</item>	
+		<item name="Eggplant Dinner">
+			<desc> With Mozzarella Cheese </desc>
+			<small> 7.25 </small>
+			<large></large>
+		</item>
+		<item name="Veggie Lasagna">
+			<desc></desc>
+			<small> 7.25 </small>
+			<large></large>
+		</item>
 	</category>
 </menu>
