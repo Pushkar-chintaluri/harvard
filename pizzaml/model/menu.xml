@@ -292,7 +292,7 @@
 			<small> 5.50 </small>
 			<large> 6.50 </large>
 		</item>	
-		<item name="Bacon & Egg">
+		<item name="Bacon &amp; Egg">
 			<desc></desc>
 			<small> 5.30 </small>
 			<large> 6.40 </large>
